@@ -1,0 +1,18 @@
+- 1. We Get to Create Tiny Worlds Inside Our Computers!
+- 2. Build a Mental Model for How Things REALLY Work!
+- 3. Always Strive to Write Clear, Tidy, Well Structured, Readable Code
+- 4. Good Design is Well Structured and Navigable
+- 5. Abstraction is at the Core of What we Do
+- 6. Abstraction is Risky Without Sound Foundations
+- 7. Distributed Programming is MUCH More Difficult!
+- 8.Automate or Lookup the Details, Focus Your Skills Elsewhere
+- 9. Automate Repetitive Tasks, Specially if they are Complicated
+- 10. Messages, Events & Asynchrony Help Tame Distributed Systems
+- 11. Understand the Next Layer Down Before Abstracting
+- 12. Fast Feedback Via Continuous Integration is Invaluable!
+- 13. Test Behaviour, Not Implementation!
+- 14. XP Works Well for Big Projects, as Well as Small!
+- 15. You Have to be Good at a LOT of things to Build Great Software
+- 16. Continuous Delivery Works for VERY Complex Problems
+- 17. Software Engineering Needs Software Engineers
+- 18. Good SW Engineering Depends on Mechanical Sympathy

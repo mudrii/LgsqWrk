@@ -1,0 +1,8 @@
+- Slavik to to talk with Ukranian and evaluat whiosper.cpp and ukranian platform.
+-
+- Finalize with Baha azizi and Sandeep on OSM
+-
+- Talk to June
+-
+- Introduce Menjie
+-

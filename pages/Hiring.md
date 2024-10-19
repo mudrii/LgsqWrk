@@ -1,0 +1,4 @@
+- Update JD's for FA/BA/DevOps/Test/UIUX
+- Look to combine roles get better budjet
+- Look at fresh graduates
+-

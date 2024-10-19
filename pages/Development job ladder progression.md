@@ -1,0 +1,70 @@
+### Entry-Level
+	- **1. Associate Developer**
+		- **Experience Required:** 0-1 years.
+		- **Description:** This is the entry point for new graduates or individuals with limited work experience. Focuses on learning the codebase, tools, technologies, and processes.
+		- **Progression:** Promoted to Junior Developer after demonstrating proficiency in basic tasks and a solid understanding of the team's technology stack.
+-
+-
+- ### Early Career
+	- **2. Junior Developer**
+		- **Experience Required:** 1-3 years.
+		- **Description:** Builds on the foundation laid as an Associate Developer, taking on more complex tasks and starting to contribute more significantly to project teams.
+		- **Progression:** Becomes a Developer after showing the ability to handle a wider range of tasks independently and contributing to the project planning process.
+-
+-
+	- **3. Developer**
+		- **Experience Required:** 3-5 years.
+		- **Description:** A seasoned programmer who contributes significantly to the design and coding of projects. Begins to specialize in certain technologies or areas of the product.
+		- **Progression:** Advanced to Senior Developer upon demonstrating deep technical expertise and leadership in projects.
+-
+-
+- ### Mid-Career
+	- **4. Senior Developer**
+		- **Experience Required:** 5-8 years.
+		- **Description:** A key player in the development team who mentors junior staff, makes critical project decisions, and has a significant influence on the technical direction.
+		- **Progression:** Moves to Principal Developer or Technical Lead based on the path of expertise or leadership preference.
+	- **5. Principal Developer**
+		- **Experience Required:** 8+ years.
+		- **Description:** An expert in their field who is responsible for high-level architectural decisions, innovation, and guiding strategic direction in technology.
+		- **Progression:** May transition to a Technical Lead or Team Lead role, focusing more on leadership or remain as a high-level individual contributor.
+-
+-
+- ### Leadership
+	- **6. Technical Lead**
+		- **Experience Required:** 10+ years, with prior leadership experience.
+		- **Description:** Leads the technical direction of projects, ensures best practices are followed, and mentors the development team. Works closely with the Team Lead to align technical and team goals.
+		- **Progression:** Can move into a Team Lead position or higher management roles depending on organizational needs and personal career goals.
+	- **7. Team Lead**
+		- **Experience Required:** 10+ years, with a blend of technical proficiency and leadership skills.**
+		- **Description:** Responsible for the overall performance and delivery of their team. Balances technical responsibilities with people management, including mentoring, performance reviews, and career development of team members.**
+		- **Progression:** Potential advancement to department head or into senior management roles, focusing more on strategic planning and organizational development.
+-
+-
+- ### Additional Considerations:
+	- **Cross-Functional Opportunities:** Encourage employees to explore roles in project management, product management, or other areas where they can apply their technical skills in a broader context.
+	- **Continuous Learning:** Foster an environment of growth by providing learning opportunities, including workshops, certifications, and conferences.
+	- **Performance and Impact:** Advancement should be based not just on years of experience but also on the impact, leadership, and contributions to the organization’s goals.
+-
+	- This framework provides a structured pathway for career progression from entry-level positions to leadership roles within the organization.
+-
+-
+- ### Architectural Roles
+	- **2. Solution Architect**
+		- **Experience Required:** 8+ years, with a mix of deep technical expertise and strategic thinking.
+		- **Description:** Focuses on designing comprehensive technical solutions that meet business requirements. Works closely with project teams to ensure architectural and operational requirements are integrated from the outset.
+		- **Progression:** Can advance to Enterprise Architect, specializing further into domains like Data Architecture or becoming a Chief Architect.
+	- **3. Technical Architect**
+		- **Experience Required:** 8+ years, specializing in a specific technology stack or platform.
+		- **Description:** Responsible for defining the technical architecture framework, guidelines, and standards for specific technology areas. Ensures solutions are scalable, reliable, and secure.
+		- **Progression:** Moves towards roles such as Chief Architect or explores leadership roles in technology strategy and innovation.
+	- **4. Enterprise Architect**
+		- **Experience Required:** 10+ years, with broad technical knowledge and strategic business acumen.
+		- **Description:** Oversees the organization's overall IT architecture, aligning IT strategy with business goals. Ensures coherence between technical and business strategies, and guides major architectural initiatives.
+		- **Progression:** May transition into senior IT leadership roles such as CTO or CIO, where they can shape the organization's technology direction at the highest level.
+-
+-
+- ### Senior Leadership Roles
+	- **5. Chief Architect**
+		- **Experience Required:** 12+ years, combining technical excellence with leadership and strategic vision.
+		- **Description:** The pinnacle technical role, responsible for the overarching architectural vision across the organization, mentoring senior technical staff, and driving innovation.
+		- **Progression:** Often a terminal position in the technical track, but may move into C-level roles like CTO, where strategic management and technology vision converge.

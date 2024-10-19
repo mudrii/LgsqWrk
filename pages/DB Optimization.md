@@ -1,0 +1,16 @@
+- Prerequisite 69-78 MCNG
+	- [[Oracle core Path 19.20]]
+		- No Downtime needed
+		- Kuba to discuss with FETCO.
+	- [[Cumulative Patch]]
+		- Including the sum of patches
+		- Needed R&D to change deployment DB + Services FE/BE
+		- DB Update 1st
+	- [[Re-init Users DB script]]
+		- run only once
+		- need to comment in deployment script
+		- Run once all patches and deployments are complete, updating
+	- [[Deploy specific DB service users roles and permissions]]
+		- Needed R&D to change deployment for DB patches
+	- [[Logical Oracle DB]]
+		- Amadou and Dev to test.

@@ -1,0 +1,19 @@
+-
+-
+-
+-
+- Support
+	- L3 support
+		- Daven allocation for one L3 support developer from BE
+		- Ray allocation for one L3 support developer from FE
+		- Mashoud discuss on flow and escalation path
+-
+- Prepare Environment only for testing
+- Talk to J on retainer basses
+-
+- I metrix Hiring agency talk with ST rejection
+-
+-
+-
+-
+-

@@ -1,0 +1,56 @@
+### Key Responsibilities
+	- 1.	Project Planning and Execution:
+		- Software Delivery Manager: Focused on ensuring the timely and efficient delivery of software projects, managing the day-to-day operations, and ensuring that teams meet their delivery goals.
+		- Program Manager: Responsible for the overall planning, execution, and delivery of projects. This includes defining project scope, objectives, and deliverables, creating detailed project plans, and managing project resources and budgets.
+	- 2.	Stakeholder Management:
+		- Software Delivery Manager: Primarily interfaces with internal teams and stakeholders to align project deliverables with business goals and ensure client satisfaction.
+		- Program Manager: Engages more broadly with both internal and external stakeholders, including clients, vendors, and senior management, to manage expectations, provide regular project updates, and ensure alignment with organizational objectives.
+	- 3.	Risk Management:
+		- Software Delivery Manager: Focuses on identifying and resolving issues that may impact software delivery timelines and quality.
+		- Program Manager: Takes a proactive approach to identifying, assessing, and mitigating risks across all aspects of the project, including budget, timeline, scope, and stakeholder relationships.
+	- 4.	Agile Transformation Leadership:
+		- Software Delivery Manager: Implements and manages agile processes within the delivery team, ensuring that teams adopt and adhere to agile practices.
+		- Program Manager: Leads the organization-wide agile transformation, working with multiple teams to foster a culture of continuous improvement, facilitating training, and ensuring that agile principles are integrated into all project management practices.
+	- 5.	Cross-functional Collaboration:
+		- Software Delivery Manager: Works closely with development and QA teams to ensure that software is developed and delivered according to specifications.
+		- Program Manager: Collaborates with a wider range of functions, including product management, operations, and external partners, to coordinate efforts and ensure the successful delivery of project outcomes.
+	- 6.	Strategic Project Oversight:
+		- Software Delivery Manager: Manages the execution phase of software projects, ensuring that teams adhere to project schedules and quality standards.
+		- Program Manager: Provides strategic oversight of multiple projects, ensuring they align with business goals and contribute to the overall success of the organization. This includes overseeing project prioritization and resource allocation.
+	- 7.	Process Improvement:
+		- Software Delivery Manager: Focuses on improving delivery processes to increase efficiency and effectiveness within the team.
+		- Program Manager: Drives broader process improvements across projects and teams, implementing best practices in project management and agile methodologies to enhance organizational performance.
+	- 8.	Documentation and Reporting:
+		- Software Delivery Manager: Maintains documentation related to software delivery processes and performance metrics.
+		- Program Manager: Develops comprehensive project documentation, including project plans, risk assessments, and status reports, ensuring transparency and accountability throughout the project lifecycle.
+- ## Key Competencies
+	- 1.	Leadership:
+		- Software Delivery Manager: Provides day-to-day leadership to delivery teams, motivating and guiding them to meet project deadlines.
+		- Program Manager: Demonstrates strong leadership skills, influencing and inspiring cross-functional teams and stakeholders to achieve project goals.
+	- 2.	Communication:
+		- Software Delivery Manager: Communicates effectively with team members and stakeholders to ensure clarity in project expectations and deliverables.
+		- Program Manager: Possesses exceptional communication skills, capable of conveying complex project information to a variety of stakeholders, including senior executives and external partners.
+	- 3.	Strategic Thinking:
+		- Software Delivery Manager: Focuses on short-term goals and tactical execution of software projects.
+		- Program Manager: Thinks strategically, aligning project goals with organizational objectives and making decisions that support long-term success.
+	- 4.	Problem-Solving:
+		- Software Delivery Manager: Solves technical and operational issues that arise during software development and delivery.
+		- Program Manager: Addresses a wider range of project-related challenges, from strategic planning to risk mitigation, ensuring that projects stay on track and deliver desired outcomes.
+	- 5.	Adaptability:
+		- Software Delivery Manager: Adapts to changes in project requirements and timelines, ensuring flexibility in delivery processes.
+		- Program Manager: Demonstrates a high degree of adaptability, managing changes in project scope, priorities, and stakeholder expectations while maintaining project integrity.
+	- 6.	Project Management Expertise:
+		- Software Delivery Manager: Focuses on managing the delivery of specific software projects using project management tools and methodologies.
+		- Program Manager: Utilizes advanced project management skills to oversee multiple projects, manage project portfolios, and ensure effective resource allocation.
+	- 7.	Risk Management:
+		- Software Delivery Manager: Identifies and mitigates risks related to software delivery timelines and quality.
+		- Program Manager: Proactively manages a comprehensive range of project risks, ensuring that potential issues are identified early and mitigated effectively.
+	- 8.	Stakeholder Engagement:
+		- Software Delivery Manager: Engages with stakeholders to ensure project deliverables meet their needs and expectations.
+		- Program Manager: Builds and maintains strong relationships with a broad range of stakeholders, ensuring their needs are met and fostering a collaborative project environment.
+	- 9.	Agile Expertise:
+		- Software Delivery Manager: Applies agile methodologies within the delivery team to improve efficiency and responsiveness.
+		- Program Manager: Leads agile transformation across the organization, promoting agile principles and practices to enhance overall project delivery.
+	- 10.	Process Optimization:
+		- Software Delivery Manager: Focuses on optimizing delivery processes to enhance team performance.
+		- Program Manager: Drives continuous improvement across project management and delivery processes, implementing best practices to achieve operational excellence.
