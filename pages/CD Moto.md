@@ -1,3 +1,4 @@
+-
 - 1. We Get to Create Tiny Worlds Inside Our Computers!
 - 2. Build a Mental Model for How Things REALLY Work!
 - 3. Always Strive to Write Clear, Tidy, Well Structured, Readable Code

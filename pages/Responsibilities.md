@@ -1,4 +1,6 @@
-- Head Of Development
+- {{renderer :tocgen2}}
+-
+	- ### Head Of Development
 	- Strategic Leadership:
 		- Collaborate with C-level executives to define and implement the company's technical vision and roadmap.
 		- Align engineering efforts with business objectives and market opportunities in the telecommunications and data processing sectors.
@@ -18,8 +20,7 @@
 		- Implement and refine processes to improve engineering efficiency, productivity, and quality.
 		- Manage resource allocation across projects and teams to optimize output and meet strategic goals.
 -
--
-- Squad Team Lead
+- ### Squad Team Lead
 	- Technical Leadership and Quality Assurance
 		- Drive technical excellence within the team by actively participating in coding, design, and architecture discussions.
 		- Set and maintain high standards for code quality, performance, and best practices in IP and Voice data stream processing solutions.
@@ -44,7 +45,7 @@
 		- Ensure that the team's development practices and outputs comply with relevant security standards and regulations, particularly given the sensitive nature of data processing for governmental agencies.
 		- Foster a security-first mindset within the team.
 -
-- Principal Engineer Tech Lead
+- ### Principal Engineer Tech Lead
 	- Technical Leadership and Innovation:
 		- Lead the design and implementation of high-performance, scalable end-to-end solutions for IP and Voice data stream processing.
 		- Drive innovation by researching and integrating cutting-edge technologies, architectures, and advanced data processing techniques.
@@ -70,7 +71,7 @@
 		- Provide expert guidance on complex technical issues and strategic technology choices to the engineering leadership and executive team.
 -
 -
-- Product Team Responsibility
+- ### Product Team Responsibility
 	- Product Vision and Strategy
 		- Define and communicate the product vision for the company's IP and Voice data stream processing solutions.
 		- Develop and maintain the product roadmap, aligning it with the company's strategic goals and market demands in the telecommunications and governmental agency sectors.
@@ -96,8 +97,7 @@
 		- Gather and analyze user feedback and usage data to inform product decisions and identify areas for improvement.
 		- Translate market and user insights into actionable product requirements and features.
 -
--
-- Program Management responsibility
+- ### Program Management responsibility
 	- Strategic Alignment and Project Lifecycle Oversight
 		- Align the project portfolio with the company's strategic objectives in IP and Voice data stream processing.
 		- Monitor projects throughout their lifecycle, ensuring they remain aligned with strategic goals.

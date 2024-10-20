@@ -292,7 +292,7 @@
  ;;  :journal?        false} ; Default value: false
 
  ;; Favorites to list on the left sidebar
- :favorites ["product job ladder progression" "Program Manager Responsibility" "STT" "Development job ladder progression" "Product job ladder progression." "Testing job ladder progression" "Product Kl"]
+ :favorites ["product job ladder progression" "Program Manager Responsibility" "STT" "Development job ladder progression" "Product job ladder progression." "Testing job ladder progression"]
 
  ;; Set flashcards interval.
  ;; Expected value:

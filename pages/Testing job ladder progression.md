@@ -1,9 +1,11 @@
+- {{renderer :tocgen2}}
 -
 - ### Entry-Level
 	- **1. Associate QA Analyst**
 		- **Experience Required:** 0-1 years.
 		- **Description:** Entry-level position focusing on learning basic testing principles, the company’s testing tools, and the software development life cycle (SDLC). Involvement in simple manual testing tasks under supervision.
 		- **Progression:** Promoted to QA Analyst after demonstrating proficiency in test execution and a basic understanding of the application under test.
+-
 -
 - ### Early Career
 	- **2. QA Analyst**
@@ -16,6 +18,7 @@
 		- **Description:** Specializes in developing and maintaining automated test scripts, frameworks, and tools. Works closely with the QA Analysts to automate repetitive test cases and ensure efficient testing processes.
 		- **Progression:** Moves to Senior QA Automation Engineer by enhancing automation frameworks, increasing test coverage, and mentoring others in automation skills.
 -
+-
 - ### Mid-Career
 	- **4. Senior QA Analyst**
 		- **Experience Required:** 3-6 years.
@@ -27,6 +30,7 @@
 		- **Description:** Expert in test automation with responsibility for the automation strategy across projects. Leads the design and implementation of complex automation solutions.
 		- **Progression:** Advances to QA Automation Architect or QA Team Lead based on preference for technical or leadership roles.
 -
+-
 - ### Leadership and Specialization
 	- **6. QA Team Lead**
 		- **Experience Required:** 7+ years, with leadership skills.
@@ -37,6 +41,7 @@
 		- **Experience Required:** 8+ years, with deep technical expertise in test automation.
 		- **Description:** Focuses on the strategic implementation of test automation within the organization, designing scalable and efficient automation frameworks, and integrating new testing technologies.
 	- **Progression:** May continue to evolve in this role, contributing to broader organizational testing strategies, or transition into senior IT architecture roles.
+-
 -
 - ### Additional Considerations:
 	- **Cross-Functional Development:** Encourage QA professionals to gain experience in areas such as business analysis, project management, or software development to broaden their understanding and impact.
