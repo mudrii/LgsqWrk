@@ -1,9 +1,9 @@
-### Entry-Level
+- {{renderer :tocgen2}}
+- ### Entry-Level
 	- **1. Associate QA Analyst**
 		- **Experience Required:** 0-1 years.
 		- **Description:** Entry-level position focusing on learning basic testing principles, the company’s testing tools, and the software development life cycle (SDLC). Involvement in simple manual testing tasks under supervision.
 		- **Progression:** Promoted to QA Analyst after demonstrating proficiency in test execution and a basic understanding of the application under test.
--
 -
 - ### Early Career
 	- **2. QA Analyst**
@@ -28,7 +28,6 @@
 		- **Description:** Expert in test automation with responsibility for the automation strategy across projects. Leads the design and implementation of complex automation solutions.
 		- **Progression:** Advances to QA Automation Architect or QA Team Lead based on preference for technical or leadership roles.
 -
--
 - ### Leadership and Specialization
 	- **6. QA Team Lead**
 		- **Experience Required:** 7+ years, with leadership skills.
@@ -40,12 +39,8 @@
 		- **Description:** Focuses on the strategic implementation of test automation within the organization, designing scalable and efficient automation frameworks, and integrating new testing technologies.
 	- **Progression:** May continue to evolve in this role, contributing to broader organizational testing strategies, or transition into senior IT architecture roles.
 -
--
 - ### Additional Considerations:
 	- **Cross-Functional Development:** Encourage QA professionals to gain experience in areas such as business analysis, project management, or software development to broaden their understanding and impact.
 	- **Certifications and Continuous Learning:** Support professional development through certifications (e.g., ISTQB, CSTE) and training in advanced testing methodologies and tools.
 	- **Performance Metrics:** Progression should be based on the quality of work, the ability to innovate and automate testing processes, leadership capabilities, and the overall impact on product quality and team effectiveness.
-  
 	- This progression ladder provides a structured career path for QA professionals, recognizing the importance of both manual testing expertise and automation skills in delivering high-quality software products.
--
--

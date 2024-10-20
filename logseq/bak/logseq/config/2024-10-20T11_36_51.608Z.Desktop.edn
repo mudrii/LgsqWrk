@@ -292,7 +292,7 @@
  ;;  :journal?        false} ; Default value: false
 
  ;; Favorites to list on the left sidebar
- :favorites ["STT" "Development job ladder progression" "Product job ladder progression." "Testing job ladder progression" "Product Kl"]
+ :favorites ["Hiring" "Tech Planing" "Program Manager Responsibility" "HWD Selection" "STT" "Development job ladder progression" "Product job ladder progression." "Testing job ladder progression" "Product Kl"]
 
  ;; Set flashcards interval.
  ;; Expected value:
@@ -412,4 +412,5 @@
  ;;      ;use triple underscore `___` for slash `/` in page title
  ;;      ;use Percent-encoding for other invalid characters
  :file/name-format :triple-lowbar
- :graph/settings {:journal? true}}
+ :graph/settings {:journal? true}
+ :journal/page-title-format "dd-MM-yyyy"}
