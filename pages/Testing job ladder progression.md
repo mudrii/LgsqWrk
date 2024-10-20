@@ -1,4 +1,4 @@
-- {{renderer :tocgen2}}
+-
 - ### Entry-Level
 	- **1. Associate QA Analyst**
 		- **Experience Required:** 0-1 years.
@@ -15,7 +15,6 @@
 		- **Experience Required:** 2-4 years, with a focus on automation skills.
 		- **Description:** Specializes in developing and maintaining automated test scripts, frameworks, and tools. Works closely with the QA Analysts to automate repetitive test cases and ensure efficient testing processes.
 		- **Progression:** Moves to Senior QA Automation Engineer by enhancing automation frameworks, increasing test coverage, and mentoring others in automation skills.
--
 -
 - ### Mid-Career
 	- **4. Senior QA Analyst**
