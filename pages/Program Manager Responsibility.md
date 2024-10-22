@@ -1,4 +1,6 @@
-### Key Responsibilities
+- {{renderer :tocgen2}}
+-
+- ### Key Responsibilities
 	- 1.	Project Planning and Execution:
 		- Software Delivery Manager: Focused on ensuring the timely and efficient delivery of software projects, managing the day-to-day operations, and ensuring that teams meet their delivery goals.
 		- Program Manager: Responsible for the overall planning, execution, and delivery of projects. This includes defining project scope, objectives, and deliverables, creating detailed project plans, and managing project resources and budgets.

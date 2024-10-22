@@ -1,4 +1,7 @@
-### Entry-Level
+- {{renderer :tocgen2}}
+	- tags: #delivery
+-
+- ### Entry-Level
 	- **1. Associate Developer**
 		- **Experience Required:** 0-1 years.
 		- **Description:** This is the entry point for new graduates or individuals with limited work experience. Focuses on learning the codebase, tools, technologies, and processes.
@@ -10,7 +13,6 @@
 		- **Experience Required:** 1-3 years.
 		- **Description:** Builds on the foundation laid as an Associate Developer, taking on more complex tasks and starting to contribute more significantly to project teams.
 		- **Progression:** Becomes a Developer after showing the ability to handle a wider range of tasks independently and contributing to the project planning process.
--
 -
 	- **3. Developer**
 		- **Experience Required:** 3-5 years.
